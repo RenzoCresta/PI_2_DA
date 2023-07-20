@@ -29,7 +29,7 @@ Estos KPIs se eligieron debido a su relevancia en el contexto del proyecto y su 
 El archivo "DashboardPI2.pbix" contiene un dashboard interactivo creado en Power BI. El dashboard incluye diferentes páginas con gráficos y visualizaciones relacionadas con la conectividad en Argentina. Permite a los usuarios filtrar y explorar los datos de forma interactiva, así como tener un acercamiento más estimulante a los KPIs propuestos.
 
 ### **Conclusiones**
-En este proyecto se han identificado importantes hallazgos sobre la conectividad en Argentina. Los KPIs seleccionados, como la penetración de Internet, la distribución de tecnologías de conexión y la velocidad promedio de descarga, han demostrado ser indicadores relevantes para comprender el estado de la conectividad en diferentes regiones del país. Los datos analizados muestran que la conectividad a Internet ha mejorado en los últimos años, pero aún existen desafíos en algunas provincias y localidades.
+En este proyecto se han identificado importantes hallazgos sobre la conectividad en Argentina. Los KPIs seleccionados, como la penetración de Internet, la distribución de tecnologías de conexión y la velocidad promedio de descarga, han demostrado ser indicadores relevantes para comprender el estado de la conectividad en diferentes regiones del país, así como para identificar oportunidades de mejora tanto en infraestructura como en prestación de servicios. Los datos analizados muestran que la conectividad a Internet ha mejorado en los últimos años, pero aún existen desafíos en algunas provincias y localidades.
 
 El dashboard interactivo en Power BI permite visualizar y explorar estos datos de manera efectiva, facilitando la comprensión de los patrones y tendencias en la conectividad en Argentina.
 
